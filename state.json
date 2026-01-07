@@ -1,1 +1,9 @@
-{"last_link": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html"}
+{
+    "TheHackerNews": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
+    "BleepingComputer": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/",
+    "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+    "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
+    "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
+    "Unit42": "https://unit42.paloaltonetworks.com/vvs-stealer/",
+    "CERT-CC": "https://kb.cert.org/vuls/id/295169"
+}

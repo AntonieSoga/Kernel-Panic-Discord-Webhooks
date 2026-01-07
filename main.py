@@ -1,3 +1,4 @@
+import re
 import os
 from src.fetcher import RSSFetcher
 from src.notifier import DiscordNotifier
@@ -21,11 +22,18 @@ class NewsEngine:
             current_link = entry.get('link')
 
             if current_link != last_link:
-                print(f"[+] New Intel from {name}: {entry.title}")
+                # Extract image for better visuals
+                image_url = fetcher.extract_image(entry)
+                
+                # Clean HTML tags from summary (common in RSS)
+                clean_summary = re.sub('<[^<]+?>', '', entry.get('summary', ''))
+
                 success = self.notifier.send(
-                    title=f"[{name}] {entry.get('title')}",
-                    summary=entry.get('summary', 'No summary.'),
-                    link=current_link
+                    title=entry.get('title'),
+                    summary=clean_summary,
+                    link=current_link,
+                    image_url=image_url,
+                    source_name=name
                 )
                 if success:
                     self.state.update_last_link(name, current_link)
@@ -34,7 +42,9 @@ class NewsEngine:
 
 if __name__ == "__main__":
     WEBHOOK = os.getenv('DISCORD_WEBHOOK') 
+    WEBHOOK = "https://discord.com/api/webhooks/1458371482123243602/OzZBeAu81bwuOJJ7gMlpr63gvUJU1jNoC0CcEGDFjAjMTptUWbqJH-Jjf6t3UP0ID8EH"
     if not WEBHOOK:
+        WEBHOOK = "https://discord.com/api/webhooks/1458371482123243602/OzZBeAu81bwuOJJ7gMlpr63gvUJU1jNoC0CcEGDFjAjMTptUWbqJH-Jjf6t3UP0ID8EH"
         print("Critical: No Webhook URL found.")
         exit(1)
 
@@ -47,7 +57,6 @@ if __name__ == "__main__":
         "NVD-Analyzed": "https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss-analyzed.xml",
         "Unit42": "https://unit42.paloaltonetworks.com/feed/",
         "CERT-CC": "https://www.kb.cert.org/vulfeed/",
-        "ProjectZero": "https://googleprojectzero.blogspot.com/feeds/posts/default"
     }
 
     engine = NewsEngine(
