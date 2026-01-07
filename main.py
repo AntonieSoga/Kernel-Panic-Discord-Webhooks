@@ -42,9 +42,7 @@ class NewsEngine:
 
 if __name__ == "__main__":
     WEBHOOK = os.getenv('DISCORD_WEBHOOK') 
-    WEBHOOK = "https://discord.com/api/webhooks/1458371482123243602/OzZBeAu81bwuOJJ7gMlpr63gvUJU1jNoC0CcEGDFjAjMTptUWbqJH-Jjf6t3UP0ID8EH"
     if not WEBHOOK:
-        WEBHOOK = "https://discord.com/api/webhooks/1458371482123243602/OzZBeAu81bwuOJJ7gMlpr63gvUJU1jNoC0CcEGDFjAjMTptUWbqJH-Jjf6t3UP0ID8EH"
         print("Critical: No Webhook URL found.")
         exit(1)
 
