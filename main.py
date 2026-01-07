@@ -1,5 +1,4 @@
 import os
-import configparser
 from src.fetcher import RSSFetcher
 from src.notifier import DiscordNotifier
 from src.state_manager import StateManager
@@ -31,17 +30,8 @@ class NewsEngine:
             print("[-] No new updates since last check.")
 
 if __name__ == "__main__":
-    # Load Webhook from Config or Environment (GitHub Secrets)
-    config = configparser.ConfigParser()
-    config.read('.config.cfg')
-    
+    # Load Webhook Environment (GitHub Secrets)
     WEBHOOK = os.getenv('DISCORD_WEBHOOK') 
-    if not WEBHOOK:
-        try:
-            WEBHOOK = config.get('DISCORD', 'webhook_url').strip('"')
-        except:
-            print("Critical: No Webhook URL found.")
-            exit(1)
 
     # Initialize Components
     from src.fetcher import RSSFetcher # Added here for brevity
