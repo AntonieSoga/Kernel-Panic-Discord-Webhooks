@@ -5,13 +5,21 @@ class StateManager:
     def __init__(self, filepath="state.json"):
         self.filepath = filepath
 
-    def get_last_link(self):
+    def _load_state(self):
         if not os.path.exists(self.filepath):
-            return None
+            return {}
         with open(self.filepath, 'r') as f:
-            data = json.load(f)
-            return data.get("last_link")
+            try:
+                return json.load(f)
+            except json.JSONDecodeError:
+                return {}
 
-    def update_last_link(self, link: str):
+    def get_last_link(self, feed_name: str):
+        state = self._load_state()
+        return state.get(feed_name)
+
+    def update_last_link(self, feed_name: str, link: str):
+        state = self._load_state()
+        state[feed_name] = link
         with open(self.filepath, 'w') as f:
-            json.dump({"last_link": link}, f)
+            json.dump(state, f, indent=4)
