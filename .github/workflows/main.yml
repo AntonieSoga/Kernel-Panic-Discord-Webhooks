@@ -1,4 +1,4 @@
-name: Hourly Intel Feed
+name: Intel Feed
 
 on:
   schedule:
