@@ -49,7 +49,6 @@ if __name__ == "__main__":
     # Define your intelligence sources here
     SOURCES = {
         "TheHackerNews": "https://feeds.feedburner.com/TheHackersNews",
-        "BleepingComputer": "https://www.bleepingcomputer.com/feed/",
         "KrebsOnSecurity": "https://krebsonsecurity.com/feed/",
         "ThreatPost": "https://threatpost.com/feed/",
         "NVD-Analyzed": "https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss-analyzed.xml",
