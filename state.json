@@ -1,9 +1,9 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
+    "TheHackerNews": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html",
     "BleepingComputer": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
-    "Unit42": "https://unit42.paloaltonetworks.com/vvs-stealer/",
+    "Unit42": "https://unit42.paloaltonetworks.com/securing-vibe-coding-tools/",
     "CERT-CC": "https://kb.cert.org/vuls/id/295169"
 }
