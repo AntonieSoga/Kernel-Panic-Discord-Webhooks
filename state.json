@@ -1,8 +1,8 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
+    "TheHackerNews": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/securing-vibe-coding-tools/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/295169"
+    "CERT-CC": "https://kb.cert.org/vuls/id/361400"
 }
