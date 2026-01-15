@@ -4,5 +4,5 @@
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/mongobleed-cve-2025-14847/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/361400"
+    "CERT-CC": "https://kb.cert.org/vuls/id/472136"
 }
