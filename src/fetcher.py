@@ -1,47 +1,30 @@
 import feedparser
-import requests
+import http.client
 import time
 import re
-from typing import Optional
-
 class RSSFetcher:
     def __init__(self, feed_url: str):
         self.feed_url = feed_url
 
-    def fetch_latest(self) -> Optional[feedparser.FeedParserDict]:
-        """
-        Fetches the latest feed entries using requests for better stability.
-        Includes a retry mechanism for transient network errors.
-        """
+    def fetch_latest(self):
+        """Returns the most recent entry, with retries for network errors."""
         max_retries = 3
-        
         for attempt in range(max_retries):
             try:
-                # Use requests to get the content manually
-                # Timeout ensures the script doesn't hang forever
-                response = requests.get(self.feed_url, timeout=15)
+                feed = feedparser.parse(self.feed_url)
                 
-                # Check if the request was successful (200 OK)
-                response.raise_for_status()
-                
-                # Parse the raw text content with feedparser
-                feed = feedparser.parse(response.text)
-                
-                # Check if feedparser itself encountered an error
-                if feed.bozo:
-                    # Optional: Log bozo_exception if you want to see parsing issues
-                    pass
-                
-                return feed
+                # Check if we actually got entries
+                if not feed.entries:
+                    return None
+                    
+                return feed.entries[0]
 
-            except (requests.exceptions.RequestException, Exception) as e:
-                # If we have retries left, wait and try again
+            except (http.client.IncompleteRead, Exception) as e:
                 if attempt < max_retries - 1:
-                    wait_time = 2 ** (attempt + 1)
-                    print(f"[-] Attempt {attempt + 1} failed for {self.feed_url}: {e}. Retrying in {wait_time}s...")
-                    time.sleep(wait_time)
+                    time.sleep(2) # Wait 2 seconds before retrying
+                    continue
                 else:
-                    print(f"[!] Permanent failure fetching {self.feed_url} after {max_retries} attempts.")
+                    print(f"[-] Permanent failure for {self.feed_url}: {e}")
                     return None
 
     def extract_image(self, entry):

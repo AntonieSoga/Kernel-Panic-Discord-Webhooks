@@ -15,17 +15,20 @@ class NewsEngine:
             fetcher = RSSFetcher(url)
             entry = fetcher.fetch_latest()
             
+            # 1. Skip if fetcher returned None (due to network error or empty feed)
             if not entry:
                 continue
 
             last_link = self.state.get_last_link(name)
             current_link = entry.get('link')
 
+            # 2. Safety Check: Ensure current_link is actually a string and not None/Empty
+            if not current_link or not isinstance(current_link, str):
+                print(f"[-] Invalid link format for {name}, skipping state update.")
+                continue
+
             if current_link != last_link:
-                # Extract image for better visuals
                 image_url = fetcher.extract_image(entry)
-                
-                # Clean HTML tags from summary (common in RSS)
                 clean_summary = re.sub('<[^<]+?>', '', entry.get('summary', ''))
 
                 success = self.notifier.send(
@@ -35,6 +38,7 @@ class NewsEngine:
                     image_url=image_url,
                     source_name=name
                 )
+                # 3. Only update state if notification was successful AND link is valid
                 if success:
                     self.state.update_last_link(name, current_link)
             else:
