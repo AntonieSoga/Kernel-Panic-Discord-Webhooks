@@ -50,10 +50,10 @@ if __name__ == "__main__":
         print("Critical: No Webhook URL found.")
         exit(1)
 
-    # Define your intelligence sources here
+    # Defined intelligence sources here
     SOURCES = {
         "TheHackerNews": "https://feeds.feedburner.com/TheHackersNews",
-        "KrebsOnSecurity": "https://krebsonsecurity.com/feed/",
+        # "KrebsOnSecurity": "https://krebsonsecurity.com/feed/",
         "ThreatPost": "https://threatpost.com/feed/",
         "NVD-Analyzed": "https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss-analyzed.xml",
         "Unit42": "https://unit42.paloaltonetworks.com/feed/",
