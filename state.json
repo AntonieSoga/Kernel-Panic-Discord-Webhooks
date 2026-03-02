@@ -1,8 +1,8 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
+    "TheHackerNews": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
-    "Unit42": "https://unit42.paloaltonetworks.com/ot-edge-security/",
+    "Unit42": "https://unit42.paloaltonetworks.com/gemini-live-in-chrome-hijacking/",
     "CERT-CC": "https://kb.cert.org/vuls/id/504749"
 }
