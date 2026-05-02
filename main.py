@@ -3,6 +3,8 @@ import os
 from src.fetcher import RSSFetcher
 from src.notifier import DiscordNotifier
 from src.state_manager import StateManager
+from bs4 import BeautifulSoup
+
 
 class NewsEngine:
     def __init__(self, feeds: dict, notifier: DiscordNotifier, state: StateManager):
@@ -29,7 +31,7 @@ class NewsEngine:
 
             if current_link != last_link:
                 image_url = fetcher.extract_image(entry)
-                clean_summary = re.sub('<[^<]+?>', '', entry.get('summary', ''))
+                clean_summary = BeautifulSoup(entry.get('summary', ''),'html.parser').get_text()
 
                 success = self.notifier.send(
                     title=entry.get('title'),
