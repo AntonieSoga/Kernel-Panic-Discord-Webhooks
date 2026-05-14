@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
+    "TheHackerNews": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/active-directory-certificate-services-exploitation/",
     "CERT-CC": "https://kb.cert.org/vuls/id/471747",
     "KDnuggets": "https://www.kdnuggets.com/time-series-feature-engineering-with-python-itertools",
-    "TowardsDataScience": "https://towardsdatascience.com/the-counterintuitive-networking-decisions-behind-openais-131000-gpu-training-fabric/",
+    "TowardsDataScience": "https://towardsdatascience.com/the-next-ai-bottleneck-isnt-the-model-its-the-inference-system/",
     "MachineLearningMastery": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1t9s7ja/weekly_entering_transitioning_thread_11_may_2026/"
 }
