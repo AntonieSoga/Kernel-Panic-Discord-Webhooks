@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
+    "TheHackerNews": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/gremlin-stealer-evolution/",
     "CERT-CC": "https://kb.cert.org/vuls/id/777338",
-    "KDnuggets": "https://www.kdnuggets.com/the-hidden-skill-gap-why-knowing-sql-python-isnt-enough-anymore",
-    "TowardsDataScience": "https://towardsdatascience.com/six-choices-every-ai-engineer-has-to-make-and-nobody-teaches/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/",
+    "KDnuggets": "https://www.kdnuggets.com/how-to-get-the-most-out-of-claude-cowork",
+    "TowardsDataScience": "https://towardsdatascience.com/proxy-pointer-rag-solving-entity-and-relationship-sprawl-in-large-knowledge-graphs/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1tgbayi/weekly_entering_transitioning_thread_18_may_2026/"
 }
