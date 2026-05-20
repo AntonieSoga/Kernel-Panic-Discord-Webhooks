@@ -1,9 +1,9 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+    "TheHackerNews": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
-    "Unit42": "https://unit42.paloaltonetworks.com/gremlin-stealer-evolution/",
+    "Unit42": "https://unit42.paloaltonetworks.com/tracking-tampered-chef-clusters/",
     "CERT-CC": "https://kb.cert.org/vuls/id/777338",
     "KDnuggets": "https://www.kdnuggets.com/how-to-get-the-most-out-of-claude-cowork",
     "TowardsDataScience": "https://towardsdatascience.com/deploying-a-multistage-multimodal-recommender-system-on-amazon-eks-featuring-bloom-filters-feature-caching-and-contextual-recommendations/",
