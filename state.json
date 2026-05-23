@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+    "TheHackerNews": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/tracking-iran-apt-screening-serpens/",
     "CERT-CC": "https://kb.cert.org/vuls/id/980487",
     "KDnuggets": "https://www.kdnuggets.com/easy-agentic-tool-calling-with-gemma-4",
-    "TowardsDataScience": "https://towardsdatascience.com/beyond-the-scroll-how-social-media-algorithms-shape-your-reality/",
+    "TowardsDataScience": "https://towardsdatascience.com/fun-with-histograms-and-densities/",
     "MachineLearningMastery": "https://machinelearningmastery.com/building-context-aware-search-in-python-with-llm-embeddings-metadata/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1tgbayi/weekly_entering_transitioning_thread_18_may_2026/"
 }
