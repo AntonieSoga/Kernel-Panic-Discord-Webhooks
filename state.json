@@ -1,11 +1,11 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
+    "TheHackerNews": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/tracking-iran-apt-screening-serpens/",
     "CERT-CC": "https://kb.cert.org/vuls/id/980487",
-    "KDnuggets": "https://www.kdnuggets.com/5-more-must-know-python-concepts",
+    "KDnuggets": "https://www.kdnuggets.com/auditing-model-bias-with-balanced-datasets-with-mimesis",
     "TowardsDataScience": "https://towardsdatascience.com/from-tf-idf-to-transformers-implementing-four-generations-of-semantic-search/",
     "MachineLearningMastery": "https://machinelearningmastery.com/implementing-hybrid-semantic-lexical-search-in-rag/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1tmxqnn/weekly_entering_transitioning_thread_25_may_2026/"
