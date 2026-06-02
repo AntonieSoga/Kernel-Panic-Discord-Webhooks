@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
+    "TheHackerNews": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/flutterbridge-new-fluttershell-backdoor/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/158530",
-    "KDnuggets": "https://www.kdnuggets.com/mocking-a-year-of-iot-sensor-time-series-data-with-mimesis",
-    "TowardsDataScience": "https://towardsdatascience.com/rag-is-not-machine-learning-and-the-ml-toolkit-solves-the-wrong-problem/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/the-roadmap-for-mastering-llmops-in-2026/",
+    "CERT-CC": "https://kb.cert.org/vuls/id/615987",
+    "KDnuggets": "https://www.kdnuggets.com/a-gentle-primer-on-llm-explainability",
+    "TowardsDataScience": "https://towardsdatascience.com/from-regex-to-vision-models-which-rag-technique-fits-which-problem/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1ttgvji/weekly_entering_transitioning_thread_01_jun_2026/"
 }
