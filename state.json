@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
+    "TheHackerNews": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/",
     "CERT-CC": "https://kb.cert.org/vuls/id/615987",
-    "KDnuggets": "https://www.kdnuggets.com/a-gentle-primer-on-llm-explainability",
-    "TowardsDataScience": "https://towardsdatascience.com/code-is-cheap-engineering-judgement-is-now-the-scarce-resource/",
+    "KDnuggets": "https://www.kdnuggets.com/how-to-write-to-files-in-python-a-beginners-guide",
+    "TowardsDataScience": "https://towardsdatascience.com/why-ai-is-not-stealing-your-job/",
     "MachineLearningMastery": "https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1ttgvji/weekly_entering_transitioning_thread_01_jun_2026/"
 }
