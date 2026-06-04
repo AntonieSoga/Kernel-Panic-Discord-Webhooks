@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
+    "TheHackerNews": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/",
     "CERT-CC": "https://kb.cert.org/vuls/id/595768",
     "KDnuggets": "https://www.kdnuggets.com/what-the-agentic-era-means-for-data-science",
-    "TowardsDataScience": "https://towardsdatascience.com/fpn-paper-walkthrough-leveraging-the-internal-pyramid/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/",
+    "TowardsDataScience": "https://towardsdatascience.com/how-to-navigate-the-shift-from-prompt-based-tools-to-workflow-driven-ai/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/using-scikit-llm-with-open-source-llms/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1ttgvji/weekly_entering_transitioning_thread_01_jun_2026/"
 }
