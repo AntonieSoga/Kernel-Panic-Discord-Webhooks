@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
+    "TheHackerNews": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/",
     "CERT-CC": "https://kb.cert.org/vuls/id/862559",
     "KDnuggets": "https://www.kdnuggets.com/feature-stores-from-scratch-a-minimal-working-implementation",
-    "TowardsDataScience": "https://towardsdatascience.com/when-gpu-utilization-lies-the-hidden-systems-problem-slowing-modern-ai/",
+    "TowardsDataScience": "https://towardsdatascience.com/stop-returning-flat-text-from-a-pdf-the-relational-shape-rag-needs/",
     "MachineLearningMastery": "https://machinelearningmastery.com/multi-label-text-classification-with-scikit-llm/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1tzx51e/weekly_entering_transitioning_thread_08_jun_2026/"
 }
