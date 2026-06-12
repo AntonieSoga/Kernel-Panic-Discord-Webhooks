@@ -5,8 +5,8 @@
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/",
     "CERT-CC": "https://kb.cert.org/vuls/id/862559",
-    "KDnuggets": "https://www.kdnuggets.com/3-numpy-tricks-for-numerical-performance",
-    "TowardsDataScience": "https://towardsdatascience.com/i-thought-data-engineering-was-just-writing-scripts-i-was-wrong/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/multi-label-text-classification-with-scikit-llm/",
+    "KDnuggets": "https://www.kdnuggets.com/pairing-claude-code-with-local-models",
+    "TowardsDataScience": "https://towardsdatascience.com/a-harness-for-every-task-putting-a-team-of-claudes-on-one-job/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/python-concepts-every-ai-engineer-must-master/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1tzx51e/weekly_entering_transitioning_thread_08_jun_2026/"
 }
