@@ -1,9 +1,9 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
+    "TheHackerNews": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
-    "Unit42": "https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/",
+    "Unit42": "https://unit42.paloaltonetworks.com/soc-72-minute-race/",
     "CERT-CC": "https://kb.cert.org/vuls/id/862559",
     "KDnuggets": "https://www.kdnuggets.com/building-time-series-machine-learning-models-with-sktime-in-python",
     "TowardsDataScience": "https://towardsdatascience.com/how-to-effectively-align-with-claude-code/",
