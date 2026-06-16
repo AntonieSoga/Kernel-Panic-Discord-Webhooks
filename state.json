@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
+    "TheHackerNews": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
-    "Unit42": "https://unit42.paloaltonetworks.com/soc-72-minute-race/",
+    "Unit42": "https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/",
     "CERT-CC": "https://kb.cert.org/vuls/id/862559",
-    "KDnuggets": "https://www.kdnuggets.com/building-time-series-machine-learning-models-with-sktime-in-python",
-    "TowardsDataScience": "https://towardsdatascience.com/how-to-effectively-align-with-claude-code/",
+    "KDnuggets": "https://www.kdnuggets.com/stop-writing-loops-in-pandas-7-faster-alternatives-to-try",
+    "TowardsDataScience": "https://towardsdatascience.com/question-parsing-in-rag-structure-before-you-search/",
     "MachineLearningMastery": "https://machinelearningmastery.com/ai-agent-tool-design-what-works-and-what-doesnt/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1u65tcj/weekly_entering_transitioning_thread_15_jun_2026/"
 }
