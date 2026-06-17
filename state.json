@@ -4,7 +4,7 @@
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/862559",
+    "CERT-CC": "https://kb.cert.org/vuls/id/380058",
     "KDnuggets": "https://www.kdnuggets.com/how-and-why-i-built-an-ai-assistant",
     "TowardsDataScience": "https://towardsdatascience.com/your-churn-threshold-is-a-pricing-decision/",
     "MachineLearningMastery": "https://machinelearningmastery.com/building-an-end-to-end-sentiment-analysis-pipeline-with-scikit-llm/",
