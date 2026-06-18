@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
+    "TheHackerNews": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/",
     "CERT-CC": "https://kb.cert.org/vuls/id/380058",
-    "KDnuggets": "https://www.kdnuggets.com/how-and-why-i-built-an-ai-assistant",
-    "TowardsDataScience": "https://towardsdatascience.com/your-churn-threshold-is-a-pricing-decision/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/building-an-end-to-end-sentiment-analysis-pipeline-with-scikit-llm/",
+    "KDnuggets": "https://www.kdnuggets.com/advanced-join-techniques-lateral-joins-semi-joins-anti-joins",
+    "TowardsDataScience": "https://towardsdatascience.com/dispatching-the-parsed-rag-question-chunk-strategy-model-tier-activations-audit/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1u65tcj/weekly_entering_transitioning_thread_15_jun_2026/"
 }
