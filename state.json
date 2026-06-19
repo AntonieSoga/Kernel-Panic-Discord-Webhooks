@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
+    "TheHackerNews": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/",
     "CERT-CC": "https://kb.cert.org/vuls/id/457458",
     "KDnuggets": "https://www.kdnuggets.com/noob-series-loss-function-explained-how-models-know-they-are-wrong",
-    "TowardsDataScience": "https://towardsdatascience.com/parse-scanned-pdfs-for-rag-with-easyocr-free-ocr-gives-you-words-not-a-document/",
+    "TowardsDataScience": "https://towardsdatascience.com/building-a-custom-gstreamer-plugin-for-nvidia-deepstream/",
     "MachineLearningMastery": "https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1u65tcj/weekly_entering_transitioning_thread_15_jun_2026/"
 }
