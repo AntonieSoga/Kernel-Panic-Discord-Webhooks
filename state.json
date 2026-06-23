@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+    "TheHackerNews": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/",
     "CERT-CC": "https://kb.cert.org/vuls/id/936962",
-    "KDnuggets": "https://www.kdnuggets.com/heres-why-webmcp-is-exciting",
-    "TowardsDataScience": "https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/",
+    "KDnuggets": "https://www.kdnuggets.com/20206/06/deasilex/the-math-skills-every-aspiring-data-scientist-needs-to-master-before-writing-a-single-line-of-code",
+    "TowardsDataScience": "https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/",
     "MachineLearningMastery": "https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1uca6dg/weekly_entering_transitioning_thread_22_jun_2026/"
 }
