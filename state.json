@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
+    "TheHackerNews": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
     "CERT-CC": "https://kb.cert.org/vuls/id/936962",
     "KDnuggets": "https://www.kdnuggets.com/fine-tuning-language-models-on-apple-silicon-with-mlx",
-    "TowardsDataScience": "https://towardsdatascience.com/from-local-llm-to-tool-using-agent/",
+    "TowardsDataScience": "https://towardsdatascience.com/how-to-build-a-powerful-llm-knowledge-base/",
     "MachineLearningMastery": "https://machinelearningmastery.com/the-ai-agent-tech-stack-explained/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1uca6dg/weekly_entering_transitioning_thread_22_jun_2026/"
 }
