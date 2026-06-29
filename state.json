@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+    "TheHackerNews": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
     "CERT-CC": "https://kb.cert.org/vuls/id/936962",
-    "KDnuggets": "https://www.kdnuggets.com/fine-tuning-language-models-on-apple-silicon-with-mlx",
-    "TowardsDataScience": "https://towardsdatascience.com/tail-control-the-counterintuitive-engineering-of-reliable-agentic-workflows/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/the-ai-agent-tech-stack-explained/",
+    "KDnuggets": "https://www.kdnuggets.com/your-rag-pipeline-is-probably-useless-heres-a-better-alternative",
+    "TowardsDataScience": "https://towardsdatascience.com/i-completed-five-years-in-analytics-consulting-5-lessons-that-changed-how-i-work/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/model-context-protocol-explained-in-3-levels-of-difficulty/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1uihsma/weekly_entering_transitioning_thread_29_jun_2026/"
 }
