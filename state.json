@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
+    "TheHackerNews": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/",
     "CERT-CC": "https://kb.cert.org/vuls/id/936962",
-    "KDnuggets": "https://www.kdnuggets.com/building-local-ai-systems-qwen3-6-mcps",
-    "TowardsDataScience": "https://towardsdatascience.com/context-engineering-for-rag-the-four-typed-inputs-behind-every-rag-answer/",
+    "KDnuggets": "https://www.kdnuggets.com/5-ai-coding-platforms-to-build-apps-without-the-headache",
+    "TowardsDataScience": "https://towardsdatascience.com/build-and-run-your-own-ai-agent-in-the-cloud/",
     "MachineLearningMastery": "https://machinelearningmastery.com/context-window-management-for-long-running-agents-strategies-and-tradeoffs/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1uihsma/weekly_entering_transitioning_thread_29_jun_2026/"
 }
