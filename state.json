@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+    "TheHackerNews": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/",
     "CERT-CC": "https://kb.cert.org/vuls/id/213560",
-    "KDnuggets": "https://www.kdnuggets.com/data-scientists-are-becoming-ai-managers-not-model-builders",
-    "TowardsDataScience": "https://towardsdatascience.com/how-to-run-end-to-end-tests-with-claude-code/",
+    "KDnuggets": "https://www.kdnuggets.com/10-probability-concepts-for-machine-learning-explained-simply",
+    "TowardsDataScience": "https://towardsdatascience.com/space-mould/",
     "MachineLearningMastery": "https://machinelearningmastery.com/the-complete-guide-to-tool-selection-in-ai-agents/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1uomm0g/weekly_entering_transitioning_thread_06_jul_2026/"
 }
