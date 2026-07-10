@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
+    "TheHackerNews": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/",
     "CERT-CC": "https://kb.cert.org/vuls/id/152953",
-    "KDnuggets": "https://www.kdnuggets.com/local-video-summarization-pipeline-processing-frames-with-smolvlm2-2-2b",
-    "TowardsDataScience": "https://towardsdatascience.com/the-big-con-of-agentic-ai/",
+    "KDnuggets": "https://www.kdnuggets.com/fine-tuning-explained-for-noobs-how-pretrained-models-learn-new-skills",
+    "TowardsDataScience": "https://towardsdatascience.com/rag-was-always-a-temporary-workaround-what-is-next/",
     "MachineLearningMastery": "https://machinelearningmastery.com/llm-orchestration-frameworks-compared-langchain-vs-llamaindex-vs-raw-api-calls/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1uomm0g/weekly_entering_transitioning_thread_06_jul_2026/"
 }
