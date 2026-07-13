@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+    "TheHackerNews": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/",
     "CERT-CC": "https://kb.cert.org/vuls/id/564823",
-    "KDnuggets": "https://www.kdnuggets.com/5-real-world-sql-projects-to-build-your-data-portfolio",
-    "TowardsDataScience": "https://towardsdatascience.com/the-three-dimensions-of-custom-agentic-alignment-purpose-principles-and-practices/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
+    "KDnuggets": "https://www.kdnuggets.com/structured-language-model-generation-with-outlines",
+    "TowardsDataScience": "https://towardsdatascience.com/governed-context-managing-context-rot-in-claude-code/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/building-ai-agents-here-are-some-anti-patterns-to-avoid/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1uv0spu/weekly_entering_transitioning_thread_13_jul_2026/"
 }
