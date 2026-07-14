@@ -5,8 +5,8 @@
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/",
     "CERT-CC": "https://kb.cert.org/vuls/id/564823",
-    "KDnuggets": "https://www.kdnuggets.com/structured-language-model-generation-with-outlines",
-    "TowardsDataScience": "https://towardsdatascience.com/agentic-rag-let-the-agent-search/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/building-ai-agents-here-are-some-anti-patterns-to-avoid/",
+    "KDnuggets": "https://www.kdnuggets.com/12-ways-to-reduce-llm-latency-and-inference-costs-in-production",
+    "TowardsDataScience": "https://towardsdatascience.com/pydantic-openai-the-cleanest-way-to-get-structured-outputs-from-llms/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/llm-evaluation-frameworks-compared-how-to-actually-measure-what-your-model-does/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1uv0spu/weekly_entering_transitioning_thread_13_jul_2026/"
 }
