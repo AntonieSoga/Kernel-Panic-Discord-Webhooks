@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
+    "TheHackerNews": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/",
     "CERT-CC": "https://kb.cert.org/vuls/id/564823",
-    "KDnuggets": "https://www.kdnuggets.com/12-ways-to-reduce-llm-latency-and-inference-costs-in-production",
-    "TowardsDataScience": "https://towardsdatascience.com/pydantic-openai-the-cleanest-way-to-get-structured-outputs-from-llms/",
+    "KDnuggets": "https://www.kdnuggets.com/getting-started-with-conductor-for-gemini-cli",
+    "TowardsDataScience": "https://towardsdatascience.com/how-much-does-it-actually-cost-to-run-a-local-llm-e-per-million-tokens-measured/",
     "MachineLearningMastery": "https://machinelearningmastery.com/llm-evaluation-frameworks-compared-how-to-actually-measure-what-your-model-does/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1uv0spu/weekly_entering_transitioning_thread_13_jul_2026/"
 }
