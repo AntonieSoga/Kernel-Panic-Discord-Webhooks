@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+    "TheHackerNews": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/564823",
+    "CERT-CC": "https://kb.cert.org/vuls/id/529388",
     "KDnuggets": "https://www.kdnuggets.com/stop-using-if-else-chains-use-the-registry-pattern-in-python-instead",
-    "TowardsDataScience": "https://towardsdatascience.com/building-trustworthy-production-rag-systems-through-continuous-evaluation/",
+    "TowardsDataScience": "https://towardsdatascience.com/dont-let-claude-gaslight-you/",
     "MachineLearningMastery": "https://machinelearningmastery.com/scikit-ollama-for-scikit-llm-ollama-integration/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1uv0spu/weekly_entering_transitioning_thread_13_jul_2026/"
 }
