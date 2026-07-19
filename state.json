@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+    "TheHackerNews": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/",
     "CERT-CC": "https://kb.cert.org/vuls/id/885548",
     "KDnuggets": "https://www.kdnuggets.com/2026/07/airia/could-your-ai-systems-already-be-high-risk-under-the-eu-ai-act",
-    "TowardsDataScience": "https://towardsdatascience.com/your-ai-agent-passed-every-eval-finance-still-killed-it/",
+    "TowardsDataScience": "https://towardsdatascience.com/loop-engineering-for-rag-question-parsing-the-small-loop-that-runs-before-retrieval/",
     "MachineLearningMastery": "https://machinelearningmastery.com/agentic-ai-security-defending-against-prompt-injection-and-tool-misuse/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1uv0spu/weekly_entering_transitioning_thread_13_jul_2026/"
 }
