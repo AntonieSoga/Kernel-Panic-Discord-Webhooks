@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+    "TheHackerNews": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/",
     "CERT-CC": "https://kb.cert.org/vuls/id/885548",
-    "KDnuggets": "https://www.kdnuggets.com/5-free-courses-to-go-from-ai-beginner-to-practitioner",
-    "TowardsDataScience": "https://towardsdatascience.com/your-ml-experiments-are-a-mess-heres-the-fix/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/building-agentic-workflows-in-python-with-langgraph/",
+    "KDnuggets": "https://www.kdnuggets.com/run-the-mythos-enhanced-coding-model-locally-with-llama-cpp-and-pi",
+    "TowardsDataScience": "https://towardsdatascience.com/how-much-of-a-data-science-workflow-can-run-on-a-gpu-today-part-1-accelerating-data-preparation/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/the-current-state-of-agentic-ai/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1v1au5z/weekly_entering_transitioning_thread_20_jul_2026/"
 }
