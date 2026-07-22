@@ -4,7 +4,7 @@
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/360868",
+    "CERT-CC": "https://kb.cert.org/vuls/id/847406",
     "KDnuggets": "https://www.kdnuggets.com/kaggle-googles-free-5-day-agentic-ai-course",
     "TowardsDataScience": "https://towardsdatascience.com/loop-engineering-for-rag-generation-when-top-1-is-enough-when-you-need-top-k/",
     "MachineLearningMastery": "https://machinelearningmastery.com/the-current-state-of-agentic-ai/",
