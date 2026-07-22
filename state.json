@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+    "TheHackerNews": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/",
     "CERT-CC": "https://kb.cert.org/vuls/id/762226",
-    "KDnuggets": "https://www.kdnuggets.com/run-the-mythos-enhanced-coding-model-locally-with-llama-cpp-and-pi",
-    "TowardsDataScience": "https://towardsdatascience.com/prompt-engineering-isnt-enough-how-four-bricks-of-context-engineering-stop-rag-hallucinations/",
+    "KDnuggets": "https://www.kdnuggets.com/10-newsletters-keeping-you-ahead-in-ai",
+    "TowardsDataScience": "https://towardsdatascience.com/from-green-checkmark-to-real-judgment-auditing-ai-agent-skills-with-skillspector/",
     "MachineLearningMastery": "https://machinelearningmastery.com/the-current-state-of-agentic-ai/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1v1au5z/weekly_entering_transitioning_thread_20_jul_2026/"
 }
