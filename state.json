@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
+    "TheHackerNews": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/russian-webmail-espionage/",
     "CERT-CC": "https://kb.cert.org/vuls/id/492466",
     "KDnuggets": "https://www.kdnuggets.com/language-model-hallucination-evaluation-with-grapheval",
-    "TowardsDataScience": "https://towardsdatascience.com/loop-engineering-for-rag-generation-an-llm-cascade-from-a-cheap-local-model-up-to-a-hosted-flagship/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/an-introduction-to-loop-engineering/",
+    "TowardsDataScience": "https://towardsdatascience.com/build-and-run-an-intelligent-document-processing-idp-system-in-the-cloud/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1v1au5z/weekly_entering_transitioning_thread_20_jul_2026/"
 }
