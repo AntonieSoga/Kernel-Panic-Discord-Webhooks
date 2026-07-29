@@ -4,9 +4,9 @@
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/russian-webmail-espionage/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/305509",
+    "CERT-CC": "https://kb.cert.org/vuls/id/293714",
     "KDnuggets": "https://www.kdnuggets.com/what-professionals-should-know-about-data-science-and-ai-according-to-harvard-business-school-online",
-    "TowardsDataScience": "https://towardsdatascience.com/why-your-best-predictive-model-gives-the-wrong-treatment-effect/",
+    "TowardsDataScience": "https://towardsdatascience.com/prompt-engineering-is-solved-prompt-management-isnt/",
     "MachineLearningMastery": "https://machinelearningmastery.com/ollama-vs-lm-studio-vs-llama-cpp-which-local-ai-runtime-should-you-use-in-2026/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1v7pjli/weekly_entering_transitioning_thread_27_jul_2026/"
 }
