@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+    "TheHackerNews": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/293714",
+    "CERT-CC": "https://kb.cert.org/vuls/id/790363",
     "KDnuggets": "https://www.kdnuggets.com/a-beginners-guide-to-working-with-claude-design",
-    "TowardsDataScience": "https://towardsdatascience.com/how-to-build-a-context-layer-and-a-company-brain/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/ollama-vs-lm-studio-vs-llama-cpp-which-local-ai-runtime-should-you-use-in-2026/",
+    "TowardsDataScience": "https://towardsdatascience.com/how-to-organize-all-of-your-coding-agent-tasks/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/the-end-to-end-agentic-ai-pipeline/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1v7pjli/weekly_entering_transitioning_thread_27_jul_2026/"
 }
