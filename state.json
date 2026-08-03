@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+    "TheHackerNews": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
     "CERT-CC": "https://kb.cert.org/vuls/id/243636",
     "KDnuggets": "https://www.kdnuggets.com/does-minimax-agent-actually-make-work-easier",
-    "TowardsDataScience": "https://towardsdatascience.com/cli-agents-with-python-ollama/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/using-a-transformer-model-from-training-to-inference/",
+    "TowardsDataScience": "https://towardsdatascience.com/prompt-context-loop-the-three-engineering-layers-every-rag-system-is-built-on/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/decoding-strategies-and-output-control/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1ve2pqi/weekly_entering_transitioning_thread_03_aug_2026/"
 }
