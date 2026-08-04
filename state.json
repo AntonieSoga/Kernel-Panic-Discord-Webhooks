@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+    "TheHackerNews": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
-    "Unit42": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+    "Unit42": "https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/",
     "CERT-CC": "https://kb.cert.org/vuls/id/243636",
-    "KDnuggets": "https://www.kdnuggets.com/does-minimax-agent-actually-make-work-easier",
-    "TowardsDataScience": "https://towardsdatascience.com/prompt-context-loop-the-three-engineering-layers-every-rag-system-is-built-on/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/decoding-strategies-and-output-control/",
+    "KDnuggets": "https://www.kdnuggets.com/7-approaches-to-reduce-inference-latency-in-your-llm-workflows",
+    "TowardsDataScience": "https://towardsdatascience.com/using-agents-as-tools/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/static-vs-dynamic-vs-continuous-batching-in-llm-inference/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1ve2pqi/weekly_entering_transitioning_thread_03_aug_2026/"
 }
