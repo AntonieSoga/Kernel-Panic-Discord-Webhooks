@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+    "TheHackerNews": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/",
     "CERT-CC": "https://kb.cert.org/vuls/id/243636",
     "KDnuggets": "https://www.kdnuggets.com/getting-started-with-github-agentic-workflows",
-    "TowardsDataScience": "https://towardsdatascience.com/introduction-to-semi-supervised-learning/",
+    "TowardsDataScience": "https://towardsdatascience.com/how-a-frontier-model-gets-built-read-from-the-kimi-k3-report/",
     "MachineLearningMastery": "https://machinelearningmastery.com/7-chunking-strategies-that-decide-whether-your-rag-works/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1v5wn15/a_short_project_analysing_the_radio/"
 }
