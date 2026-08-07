@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
+    "TheHackerNews": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/487613",
-    "KDnuggets": "https://www.kdnuggets.com/5-free-courses-to-learn-modern-ai-and-llms",
-    "TowardsDataScience": "https://towardsdatascience.com/my-fall-detection-model-scored-94-and-it-was-lying-to-me/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/designing-ai-agents-that-can-self-correct/",
+    "CERT-CC": "https://kb.cert.org/vuls/id/987105",
+    "KDnuggets": "https://www.kdnuggets.com/small-language-models-with-hugging-face-transformers-library-smollm3",
+    "TowardsDataScience": "https://towardsdatascience.com/the-problem-with-pandas-isnt-performance-its-cognitive-overhead/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/identifying-token-costs-hiding-in-your-agentic-loop/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1ve2pqi/weekly_entering_transitioning_thread_03_aug_2026/"
 }
