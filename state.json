@@ -4,9 +4,9 @@
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/soc-identity-front-door/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/987105",
+    "CERT-CC": "https://kb.cert.org/vuls/id/614868",
     "KDnuggets": "https://www.kdnuggets.com/specification-engineering-the-new-skill-after-prompt-engineering",
-    "TowardsDataScience": "https://towardsdatascience.com/variational-autoencoders-vaes-explained-from-theory-to-elbo-and-the-reparameterization-trick/",
+    "TowardsDataScience": "https://towardsdatascience.com/building-an-agent-ready-data-warehouse-what-traditional-architectures-do-wrong/",
     "MachineLearningMastery": "https://machinelearningmastery.com/prompt-caching-vs-fine-tuning-a-cost-and-latency-decision-framework/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1vkad1x/weekly_entering_transitioning_thread_10_aug_2026/"
 }
