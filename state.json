@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
+    "TheHackerNews": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/",
     "CERT-CC": "https://kb.cert.org/vuls/id/614868",
-    "KDnuggets": "https://www.kdnuggets.com/3-visual-proofs-of-the-central-limit-theorem-to-build-your-intuition",
-    "TowardsDataScience": "https://towardsdatascience.com/can-a-local-llm-run-my-ai-assistant/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/prompt-caching-vs-fine-tuning-a-cost-and-latency-decision-framework/",
+    "KDnuggets": "https://www.kdnuggets.com/the-ultimate-guide-to-contributing-to-open-source-projects",
+    "TowardsDataScience": "https://towardsdatascience.com/the-budget-split-that-explains-itself/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/7-async-patterns-for-running-agents-concurrently-in-python/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1vkad1x/weekly_entering_transitioning_thread_10_aug_2026/"
 }
