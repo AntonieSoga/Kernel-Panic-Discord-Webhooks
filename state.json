@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+    "TheHackerNews": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/",
     "CERT-CC": "https://kb.cert.org/vuls/id/431093",
-    "KDnuggets": "https://www.kdnuggets.com/5-easy-ways-to-install-python-on-windows",
-    "TowardsDataScience": "https://towardsdatascience.com/how-to-place-vertiport-locations-in-any-city-using-geospatial-machine-learning/",
+    "KDnuggets": "https://www.kdnuggets.com/building-an-end-to-end-data-science-portfolio-project",
+    "TowardsDataScience": "https://towardsdatascience.com/building-multimodal-workflows-with-a-local-llm/",
     "MachineLearningMastery": "https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1vkad1x/weekly_entering_transitioning_thread_10_aug_2026/"
 }
