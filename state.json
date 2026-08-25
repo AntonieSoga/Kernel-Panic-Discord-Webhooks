@@ -5,8 +5,8 @@
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/",
     "CERT-CC": "https://kb.cert.org/vuls/id/728712",
-    "KDnuggets": "https://www.kdnuggets.com/i-tried-kimi-agent-and-heres-what-i-found",
-    "TowardsDataScience": "https://towardsdatascience.com/hallucinations-watermarks-removers-and-a-squeezed-balloon/",
+    "KDnuggets": "https://www.kdnuggets.com/python-dataclasses-beyond-the-boilerplate",
+    "TowardsDataScience": "https://towardsdatascience.com/i-deployed-my-data-pipeline-to-aws-then-everything-that-was-local-broke/",
     "MachineLearningMastery": "https://machinelearningmastery.com/comparing-local-tool-calling-gemma-4-vs-llama-3-vs-mistral/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1vws6hn/weekly_entering_transitioning_thread_24_aug_2026/"
 }
