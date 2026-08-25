@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
+    "TheHackerNews": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/",
     "CERT-CC": "https://kb.cert.org/vuls/id/728712",
-    "KDnuggets": "https://www.kdnuggets.com/how-to-leverage-local-small-language-models-for-your-projects",
-    "TowardsDataScience": "https://towardsdatascience.com/put-your-own-logic-inside-the-codex-agentic-loop/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/integrating-agentic-ai-with-existing-machine-learning-pipelines/",
+    "KDnuggets": "https://www.kdnuggets.com/i-tried-kimi-agent-and-heres-what-i-found",
+    "TowardsDataScience": "https://towardsdatascience.com/one-document-type-a-million-files-structured-extraction-into-the-sql-table-rag-queries/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/comparing-local-tool-calling-gemma-4-vs-llama-3-vs-mistral/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1vws6hn/weekly_entering_transitioning_thread_24_aug_2026/"
 }
