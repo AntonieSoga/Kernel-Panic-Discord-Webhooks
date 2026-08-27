@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+    "TheHackerNews": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/",
     "CERT-CC": "https://kb.cert.org/vuls/id/308749",
-    "KDnuggets": "https://www.kdnuggets.com/understanding-the-impact-of-ai-on-job-markets",
-    "TowardsDataScience": "https://towardsdatascience.com/how-does-a-rag-reranker-really-work-the-honest-answer-most-data-scientists-wont-give-you/",
+    "KDnuggets": "https://www.kdnuggets.com/what-we-can-learn-from-google-engineers-indispensible-prompts",
+    "TowardsDataScience": "https://towardsdatascience.com/the-sigmoid-function-from-e-to-neural-networks/",
     "MachineLearningMastery": "https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1vws6hn/weekly_entering_transitioning_thread_24_aug_2026/"
 }
