@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+    "TheHackerNews": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/",
     "CERT-CC": "https://kb.cert.org/vuls/id/308749",
-    "KDnuggets": "https://www.kdnuggets.com/7-python-mistakes-beginners-make-and-what-to-do-instead",
-    "TowardsDataScience": "https://towardsdatascience.com/why-rag-complexity-should-be-earned/",
+    "KDnuggets": "https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding",
+    "TowardsDataScience": "https://towardsdatascience.com/your-llm-can-return-perfect-json-and-still-be-wrong/",
     "MachineLearningMastery": "https://machinelearningmastery.com/combining-llm-embeddings-with-tabular-features-in-a-unified-scikit-learn-pipeline/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1w32px6/weekly_entering_transitioning_thread_31_aug_2026/"
 }
