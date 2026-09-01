@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/308749",
-    "KDnuggets": "https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding",
-    "TowardsDataScience": "https://towardsdatascience.com/5-ai-skills-that-will-keep-data-scientists-relevant-in-2027/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/combining-llm-embeddings-with-tabular-features-in-a-unified-scikit-learn-pipeline/",
+    "CERT-CC": "https://kb.cert.org/vuls/id/456290",
+    "KDnuggets": "https://www.kdnuggets.com/free-transcription-with-speakr",
+    "TowardsDataScience": "https://towardsdatascience.com/your-json-is-valid-but-your-data-is-wrong-five-failure-modes-llm-structured-outputs-wont-catch/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/3-ways-to-enhance-your-ai-models-interpretability/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1w32px6/weekly_entering_transitioning_thread_31_aug_2026/"
 }
