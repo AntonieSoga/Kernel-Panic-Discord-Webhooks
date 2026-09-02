@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/",
     "CERT-CC": "https://kb.cert.org/vuls/id/456290",
-    "KDnuggets": "https://www.kdnuggets.com/free-transcription-with-speakr",
-    "TowardsDataScience": "https://towardsdatascience.com/your-json-is-valid-but-your-data-is-wrong-five-failure-modes-llm-structured-outputs-wont-catch/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/3-ways-to-enhance-your-ai-models-interpretability/",
+    "KDnuggets": "https://www.kdnuggets.com/this-python-library-can-run-pandas-workloads-up-to-20x-faster",
+    "TowardsDataScience": "https://towardsdatascience.com/a-rag-that-says-not-in-this-document-has-to-show-four-kinds-of-evidence/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1w32px6/weekly_entering_transitioning_thread_31_aug_2026/"
 }
