@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/456290",
-    "KDnuggets": "https://www.kdnuggets.com/5-free-courses-to-go-from-llm-beginner-to-practitioner",
-    "TowardsDataScience": "https://towardsdatascience.com/changing-one-prompt-can-affect-50-others-i-built-a-prompt-dependency-graph-to-find-what-needs-retesting/",
+    "CERT-CC": "https://kb.cert.org/vuls/id/889462",
+    "KDnuggets": "https://www.kdnuggets.com/i-asked-chatgpt-to-analyze-3-datasets-it-made-the-same-mistakes-every-time",
+    "TowardsDataScience": "https://towardsdatascience.com/my-model-worked-perfectly-then-i-tried-to-make-it-useful/",
     "MachineLearningMastery": "https://machinelearningmastery.com/single-agent-vs-multi-agent-systems-when-the-complexity-is-worth-it/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1w32px6/weekly_entering_transitioning_thread_31_aug_2026/"
 }
