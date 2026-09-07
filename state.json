@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/",
     "CERT-CC": "https://kb.cert.org/vuls/id/889462",
     "KDnuggets": "https://www.kdnuggets.com/switchyard-nvidias-open-source-routing-library",
-    "TowardsDataScience": "https://towardsdatascience.com/text-watermarking-in-python-catch-whoever-copies-your-writing/",
+    "TowardsDataScience": "https://towardsdatascience.com/why-most-multi-agent-systems-fail-even-when-evaluation-passes/",
     "MachineLearningMastery": "https://machinelearningmastery.com/dataclasses-for-structured-application-data/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1w9herv/weekly_entering_transitioning_thread_07_sep_2026/"
 }
