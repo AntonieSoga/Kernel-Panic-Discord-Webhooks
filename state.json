@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/",
     "CERT-CC": "https://kb.cert.org/vuls/id/718077",
-    "KDnuggets": "https://www.kdnuggets.com/from-rag-to-agentic-ai-building-the-next-generation-of-intelligent-enterprise-systems",
-    "TowardsDataScience": "https://towardsdatascience.com/how-to-maximize-gpt-6-astra/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/chain-of-thought-vs-tree-of-thoughts-which-is-best-for-ai-agents/",
+    "KDnuggets": "https://www.kdnuggets.com/build-an-ai-data-analyst-that-thinks-like-a-senior-analyst",
+    "TowardsDataScience": "https://towardsdatascience.com/the-symmetry-that-breaks-neural-network-averaging/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/versioning-and-tracking-scikit-llm-experiments/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1w9herv/weekly_entering_transitioning_thread_07_sep_2026/"
 }
