@@ -4,7 +4,7 @@
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/687587",
+    "CERT-CC": "https://kb.cert.org/vuls/id/369611",
     "KDnuggets": "https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide",
     "TowardsDataScience": "https://towardsdatascience.com/coding-agents-dont-need-longer-history-they-need-intent-continuity/",
     "MachineLearningMastery": "https://machinelearningmastery.com/fine-tuning-agentic-ai-a-practical-guide/",
