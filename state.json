@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/",
     "CERT-CC": "https://kb.cert.org/vuls/id/369611",
-    "KDnuggets": "https://www.kdnuggets.com/7-python-best-practices-senior-developers-follow-that-beginners-often-miss",
-    "TowardsDataScience": "https://towardsdatascience.com/how-many-labeled-examples-does-a-text-classifier-actually-need-i-measured-it/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/a-gentle-introduction-to-model-distillation/",
+    "KDnuggets": "https://www.kdnuggets.com/2026/09/finpr/orchestration-and-execution-how-joni-approaches-the-agent-layer",
+    "TowardsDataScience": "https://towardsdatascience.com/reparameterization-tricks-variance-reduction-by-smarter-gradients/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/treating-prompt-templates-as-hyperparameters-in-scikit-llm-gridsearchcv/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1wfsve7/weekly_entering_transitioning_thread_14_sep_2026/"
 }
