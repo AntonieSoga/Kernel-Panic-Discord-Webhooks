@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/369093",
-    "KDnuggets": "https://www.kdnuggets.com/5-free-zoomcamps-from-data-pipelines-to-ai-agents",
-    "TowardsDataScience": "https://towardsdatascience.com/when-does-graph-rag-actually-add-value-a-hands-on-experiment/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/the-roadmap-to-mastering-voice-agents/",
+    "CERT-CC": "https://kb.cert.org/vuls/id/280377",
+    "KDnuggets": "https://www.kdnuggets.com/whats-so-good-about-chatgpt-work-heres-what-i-found",
+    "TowardsDataScience": "https://towardsdatascience.com/building-a-data-lakehouse-with-duckdb-and-ducklake/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/multilingual-text-classification-with-scikit-llm-and-multilingual-embeddings/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1wfsve7/weekly_entering_transitioning_thread_14_sep_2026/"
 }
