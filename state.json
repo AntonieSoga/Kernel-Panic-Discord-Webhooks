@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
-    "Unit42": "https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/",
+    "Unit42": "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/",
     "CERT-CC": "https://kb.cert.org/vuls/id/280377",
-    "KDnuggets": "https://www.kdnuggets.com/2026/09/prnews.io/whats-actually-inside-24723-tokens-of-a-search-result-we-broke-it-down-field-by-field",
-    "TowardsDataScience": "https://towardsdatascience.com/building-a-data-lakehouse-with-duckdb-and-ducklake/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/multilingual-text-classification-with-scikit-llm-and-multilingual-embeddings/",
+    "KDnuggets": "https://www.kdnuggets.com/5-prompt-optimization-strategies-that-actually-improve-llm-output",
+    "TowardsDataScience": "https://towardsdatascience.com/starting-a-career-in-data-science-in-the-age-of-ai/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1wfsve7/weekly_entering_transitioning_thread_14_sep_2026/"
 }
