@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
-    "Unit42": "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/",
+    "Unit42": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
     "CERT-CC": "https://kb.cert.org/vuls/id/280377",
     "KDnuggets": "https://www.kdnuggets.com/reusing-the-prompt-prefix-with-a-key-value-cache-for-slm-optimization",
-    "TowardsDataScience": "https://towardsdatascience.com/graphrag-a-practitioners-guide-to-6-advanced-architectural-patterns/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/build-and-understand-a-vector-database-from-scratch-in-10-easy-steps/",
+    "TowardsDataScience": "https://towardsdatascience.com/google-offered-10m-for-a-dying-airlines-data-how-can-you-value-yours/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1wm24l1/weekly_entering_transitioning_thread_21_sep_2026/"
 }
