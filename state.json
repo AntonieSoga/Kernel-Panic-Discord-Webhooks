@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/280377",
+    "CERT-CC": "https://kb.cert.org/vuls/id/738147",
     "KDnuggets": "https://www.kdnuggets.com/bravely-ai-browsing-with-leo",
-    "TowardsDataScience": "https://towardsdatascience.com/build-a-speaker-recognition-app-with-claude-code/",
+    "TowardsDataScience": "https://towardsdatascience.com/break-your-own-rag-pipeline-before-users-do/",
     "MachineLearningMastery": "https://machinelearningmastery.com/monitoring-embedding-drift-in-production-scikit-llm-pipelines/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1wm24l1/weekly_entering_transitioning_thread_21_sep_2026/"
 }
