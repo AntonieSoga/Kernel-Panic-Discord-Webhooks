@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
     "CERT-CC": "https://kb.cert.org/vuls/id/273940",
-    "KDnuggets": "https://www.kdnuggets.com/everything-claude-opus-5-5-actually-ships-with",
-    "TowardsDataScience": "https://towardsdatascience.com/i-trained-a-tiny-network-to-compress-data-it-drew-a-pentagon/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/rag-vs-fine-tuning-for-domain-adaptation-when-to-use-which/",
+    "KDnuggets": "https://www.kdnuggets.com/mcp-explained-in-5-minutes",
+    "TowardsDataScience": "https://towardsdatascience.com/beyond-rags-building-actually-truthful-ai-harnesses/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1wm24l1/weekly_entering_transitioning_thread_21_sep_2026/"
 }
