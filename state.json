@@ -4,7 +4,7 @@
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/676317",
+    "CERT-CC": "https://kb.cert.org/vuls/id/234131",
     "KDnuggets": "https://www.kdnuggets.com/mcp-explained-in-5-minutes",
     "TowardsDataScience": "https://towardsdatascience.com/how-to-maximize-your-coding-agent-subscriptions/",
     "MachineLearningMastery": "https://machinelearningmastery.com/agent-or-workflow-a-practical-test-for-knowing-when-you-actually-need-an-ai-agent/",
