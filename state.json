@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/234131",
+    "CERT-CC": "https://kb.cert.org/vuls/id/699627",
     "KDnuggets": "https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization",
-    "TowardsDataScience": "https://towardsdatascience.com/your-models-mse-is-lying-to-you-part-ii/",
+    "TowardsDataScience": "https://towardsdatascience.com/10-things-im-learning-beyond-ai-to-become-more-technologically-fluent/",
     "MachineLearningMastery": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1wm24l1/weekly_entering_transitioning_thread_21_sep_2026/"
 }
