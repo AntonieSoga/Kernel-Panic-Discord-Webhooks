@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/",
     "CERT-CC": "https://kb.cert.org/vuls/id/699627",
     "KDnuggets": "https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization",
-    "TowardsDataScience": "https://towardsdatascience.com/10-things-im-learning-beyond-ai-to-become-more-technologically-fluent/",
+    "TowardsDataScience": "https://towardsdatascience.com/your-llm-has-a-curved-space-of-paragraphs/",
     "MachineLearningMastery": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1wm24l1/weekly_entering_transitioning_thread_21_sep_2026/"
 }
