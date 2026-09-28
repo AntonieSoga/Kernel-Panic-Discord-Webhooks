@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/",
     "CERT-CC": "https://kb.cert.org/vuls/id/699627",
-    "KDnuggets": "https://www.kdnuggets.com/batching-by-length-instead-of-looping-item-by-item-for-slm-optimization",
-    "TowardsDataScience": "https://towardsdatascience.com/graphrag-with-typesafe-jev-a-system-one-approach-to-scalable-knowledge-graphs/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/tool-calling-vs-code-execution-for-ai-agents-choosing-the-right-action-primitive/",
+    "KDnuggets": "https://www.kdnuggets.com/gemini-3-5-transcribe-vs-openais-gpt-transcribe",
+    "TowardsDataScience": "https://towardsdatascience.com/how-to-make-your-own-jev-model-from-an-open-llm/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/local-agentic-ai-workflows-with-hermes-ollama/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1ws4fwo/weekly_entering_transitioning_thread_28_sep_2026/"
 }
