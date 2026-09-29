@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+    "TheHackerNews": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
-    "Unit42": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
+    "Unit42": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/",
     "CERT-CC": "https://kb.cert.org/vuls/id/762428",
-    "KDnuggets": "https://www.kdnuggets.com/gemini-3-5-transcribe-vs-openais-gpt-transcribe",
-    "TowardsDataScience": "https://towardsdatascience.com/guided-merge-sort-an-optimized-sorting-that-picks-the-best-from-ordinary-and-multi-way-merge-sort-algorithms/",
+    "KDnuggets": "https://www.kdnuggets.com/5-free-courses-to-learn-ai-engineering",
+    "TowardsDataScience": "https://towardsdatascience.com/how-to-design-architectural-guardrails-around-ai-agents/",
     "MachineLearningMastery": "https://machinelearningmastery.com/local-agentic-ai-workflows-with-hermes-ollama/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1ws4fwo/weekly_entering_transitioning_thread_28_sep_2026/"
 }
