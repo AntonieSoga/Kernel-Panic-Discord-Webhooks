@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+    "TheHackerNews": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
     "CERT-CC": "https://kb.cert.org/vuls/id/762428",
-    "KDnuggets": "https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems",
-    "TowardsDataScience": "https://towardsdatascience.com/how-many-stories-can-your-data-tell/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/automating-knowledge-graph-population-extracting-entities-and-triples-from-unstructured-text-with-an-llm/",
+    "KDnuggets": "https://www.kdnuggets.com/how-to-use-marimo-for-interactive-data-analysis",
+    "TowardsDataScience": "https://towardsdatascience.com/can-an-apartment-search-agent-call-the-model-fewer-times-and-still-find-good-matches/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/adding-temporal-reasoning-to-graph-rag-tracking-fact-freshness-and-staleness/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1ws4fwo/weekly_entering_transitioning_thread_28_sep_2026/"
 }
