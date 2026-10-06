@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+    "TheHackerNews": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
-    "Unit42": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
+    "Unit42": "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/",
     "CERT-CC": "https://kb.cert.org/vuls/id/553437",
-    "KDnuggets": "https://www.kdnuggets.com/meta-muse-explained-what-it-is-how-it-works-and-what-it-can-do",
-    "TowardsDataScience": "https://towardsdatascience.com/computer-vision-sift-algorithm-scale-invariant-feature-transform/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/",
+    "KDnuggets": "https://www.kdnuggets.com/who-pays-for-ai-data-centers",
+    "TowardsDataScience": "https://towardsdatascience.com/how-i-use-ai-to-learn-new-topics-faster-an-ai-assisted-learning-framework/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/synchronous-vs-asynchronous-agent-execution-architecture-patterns-for-production/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1wxyyo7/weekly_entering_transitioning_thread_05_oct_2026/"
 }
