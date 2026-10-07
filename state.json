@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+    "TheHackerNews": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/",
     "CERT-CC": "https://kb.cert.org/vuls/id/553437",
-    "KDnuggets": "https://www.kdnuggets.com/i-tested-5-ai-coding-assistants-for-a-month-heres-what-i-actually-found",
-    "TowardsDataScience": "https://towardsdatascience.com/the-consistency-quadrant-a-visual-guide-to-llm-reliability/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/synchronous-vs-asynchronous-agent-execution-architecture-patterns-for-production/",
+    "KDnuggets": "https://www.kdnuggets.com/openai-dots-the-data-scientists-reality-check",
+    "TowardsDataScience": "https://towardsdatascience.com/how-wrong-is-your-marketing-mix-model-mmm/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/choosing-the-right-agentic-ai-framework-for-2026-a-decision-tree-approach/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1wxyyo7/weekly_entering_transitioning_thread_05_oct_2026/"
 }
