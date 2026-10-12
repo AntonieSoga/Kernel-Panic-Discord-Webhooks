@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+    "TheHackerNews": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/553437",
-    "KDnuggets": "https://www.kdnuggets.com/build-your-first-mcp-server-in-python-stateless-spec-edition",
-    "TowardsDataScience": "https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/how-to-fine-tune-llama-3-for-custom-tool-calling-with-unsloth-in-python/",
+    "CERT-CC": "https://kb.cert.org/vuls/id/162329",
+    "KDnuggets": "https://www.kdnuggets.com/the-rise-of-ai-software-clones-why-rea-and-artcraft-are-going-viral",
+    "TowardsDataScience": "https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/ai-agent-benchmarks-explained-swe-bench-gaia-webarena-and-more/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1x3rz35/weekly_entering_transitioning_thread_12_oct_2026/"
 }
