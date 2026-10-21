@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+    "TheHackerNews": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
-    "Unit42": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
+    "Unit42": "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/",
     "CERT-CC": "https://kb.cert.org/vuls/id/645818",
-    "KDnuggets": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-product-manager-in-2026",
-    "TowardsDataScience": "https://towardsdatascience.com/synthetic-to-real-transfer-with-frozen-dinov3-features/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/pgvector-vs-dedicated-vector-databases-a-production-benchmark/",
+    "KDnuggets": "https://www.kdnuggets.com/named-entity-recognition-using-scikit-llm",
+    "TowardsDataScience": "https://towardsdatascience.com/how-to-turn-long-running-python-simulations-into-a-self-service-platform/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/how-to-build-a-multi-modal-rag-pipeline-for-images-and-documents-in-python/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1x9mwlz/weekly_entering_transitioning_thread_19_oct_2026/"
 }
