@@ -1,10 +1,10 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+    "TheHackerNews": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/645818",
+    "CERT-CC": "https://kb.cert.org/vuls/id/763488",
     "KDnuggets": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
     "TowardsDataScience": "https://towardsdatascience.com/does-agentic-rag-actually-retrieve-better-evidence-i-tested-it-on-298-questions/",
     "MachineLearningMastery": "https://machinelearningmastery.com/how-to-build-a-multi-modal-rag-pipeline-for-images-and-documents-in-python/",
