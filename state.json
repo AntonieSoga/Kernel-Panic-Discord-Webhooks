@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+    "TheHackerNews": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/",
     "CERT-CC": "https://kb.cert.org/vuls/id/763488",
-    "KDnuggets": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
-    "TowardsDataScience": "https://towardsdatascience.com/does-agentic-rag-actually-retrieve-better-evidence-i-tested-it-on-298-questions/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/how-to-build-a-multi-modal-rag-pipeline-for-images-and-documents-in-python/",
+    "KDnuggets": "https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience",
+    "TowardsDataScience": "https://towardsdatascience.com/skewness-and-kurtosis-from-moments-to-machine-learning/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/speculative-decoding-explained-how-to-get-3x-faster-inference-from-any-llm/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1x9mwlz/weekly_entering_transitioning_thread_19_oct_2026/"
 }
