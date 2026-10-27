@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+    "TheHackerNews": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
     "CERT-CC": "https://kb.cert.org/vuls/id/701544",
     "KDnuggets": "https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares",
-    "TowardsDataScience": "https://towardsdatascience.com/in-the-age-of-borrowed-thinking-how-to-become-more-valuable-as-ai-gets-smarter/",
+    "TowardsDataScience": "https://towardsdatascience.com/i-broke-a-browser-agent-on-purpose-spotting-the-fault-was-not-the-same-as-fixing-it/",
     "MachineLearningMastery": "https://machinelearningmastery.com/context-managers-beyond-opening-files/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1xfmr7y/weekly_entering_transitioning_thread_26_oct_2026/"
 }
