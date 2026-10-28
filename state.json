@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+    "TheHackerNews": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
-    "Unit42": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+    "Unit42": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/",
     "CERT-CC": "https://kb.cert.org/vuls/id/701544",
     "KDnuggets": "https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter",
-    "TowardsDataScience": "https://towardsdatascience.com/where-a-cell-sits-matters-more-than-how-many-there-are/",
+    "TowardsDataScience": "https://towardsdatascience.com/how-to-make-ai-work-for-end-to-end-business-processes/",
     "MachineLearningMastery": "https://machinelearningmastery.com/context-managers-beyond-opening-files/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1xfmr7y/weekly_entering_transitioning_thread_26_oct_2026/"
 }
