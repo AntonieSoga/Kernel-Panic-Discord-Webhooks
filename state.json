@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+    "TheHackerNews": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/",
     "CERT-CC": "https://kb.cert.org/vuls/id/701544",
-    "KDnuggets": "https://www.kdnuggets.com/access-multiple-ai-models-in-your-python-apps-using-openrouter",
-    "TowardsDataScience": "https://towardsdatascience.com/how-to-make-ai-work-for-end-to-end-business-processes/",
+    "KDnuggets": "https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now",
+    "TowardsDataScience": "https://towardsdatascience.com/when-labels-say-no-but-embeddings-say-yes/",
     "MachineLearningMastery": "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1xfmr7y/weekly_entering_transitioning_thread_26_oct_2026/"
 }
