@@ -1,9 +1,9 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+    "TheHackerNews": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
-    "Unit42": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/",
+    "Unit42": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
     "CERT-CC": "https://kb.cert.org/vuls/id/701544",
     "KDnuggets": "https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now",
     "TowardsDataScience": "https://towardsdatascience.com/when-labels-say-no-but-embeddings-say-yes/",
