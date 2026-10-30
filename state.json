@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+    "TheHackerNews": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
     "CERT-CC": "https://kb.cert.org/vuls/id/701544",
-    "KDnuggets": "https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now",
-    "TowardsDataScience": "https://towardsdatascience.com/claude-code-mods-custom-hooks-to-fix-my-biggest-ai-coding-frustrations/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head/",
+    "KDnuggets": "https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant",
+    "TowardsDataScience": "https://towardsdatascience.com/pick-a-number-between-1-and-10/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1xfmr7y/weekly_entering_transitioning_thread_26_oct_2026/"
 }
