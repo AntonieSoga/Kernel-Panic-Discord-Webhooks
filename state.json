@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+    "TheHackerNews": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/701544",
-    "KDnuggets": "https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant",
-    "TowardsDataScience": "https://towardsdatascience.com/the-enterprise-context-layer-a-practitioners-guide-to-6-advanced-architectural-patterns/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead/",
+    "CERT-CC": "https://kb.cert.org/vuls/id/203719",
+    "KDnuggets": "https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals",
+    "TowardsDataScience": "https://towardsdatascience.com/credit-risk-what-are-we-actually-measuring/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/the-ai-agent-memory-stack-building-blocks-patterns-and-frameworks/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1xloeez/weekly_entering_transitioning_thread_02_nov_2026/"
 }
