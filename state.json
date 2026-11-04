@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+    "TheHackerNews": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/",
     "CERT-CC": "https://kb.cert.org/vuls/id/124705",
-    "KDnuggets": "https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm",
-    "TowardsDataScience": "https://towardsdatascience.com/ai-will-do-your-job-that-should-be-good-news/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/choosing-an-llm-inference-optimization-technique-a-decision-tree-approach/",
+    "KDnuggets": "https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare",
+    "TowardsDataScience": "https://towardsdatascience.com/a-computational-analysis-of-womens-suffrage-in-historical-newspapers/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1xloeez/weekly_entering_transitioning_thread_02_nov_2026/"
 }
