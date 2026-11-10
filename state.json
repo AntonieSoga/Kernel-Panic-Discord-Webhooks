@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+    "TheHackerNews": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/",
     "CERT-CC": "https://kb.cert.org/vuls/id/188754",
-    "KDnuggets": "https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy",
-    "TowardsDataScience": "https://towardsdatascience.com/continuous-batching-beats-static-and-dynamic-by-up-to-291-in-vllm/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/attention-variants-for-efficient-inference/",
+    "KDnuggets": "https://www.kdnuggets.com/integrating-llm-translation-into-your-scikit-learn-pipelines-with-scikit-llm",
+    "TowardsDataScience": "https://towardsdatascience.com/scikit-learn-matched-or-beat-jevs-calibration-on-banking77/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/what-are-diffusion-language-models-and-why-are-they-different-from-gpt/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1xrix7s/weekly_entering_transitioning_thread_09_nov_2026/"
 }
