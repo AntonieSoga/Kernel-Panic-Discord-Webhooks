@@ -7,6 +7,6 @@
     "CERT-CC": "https://kb.cert.org/vuls/id/188754",
     "KDnuggets": "https://www.kdnuggets.com/can-ai-spot-data-leakage-before-your-model-hits-99-accuracy",
     "TowardsDataScience": "https://towardsdatascience.com/continuous-batching-beats-static-and-dynamic-by-up-to-291-in-vllm/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/benchmarking-scikit-ollama-vs-groq-backed-scikit-llm-speed-cost-and-accuracy/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/attention-variants-for-efficient-inference/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1xrix7s/weekly_entering_transitioning_thread_09_nov_2026/"
 }
