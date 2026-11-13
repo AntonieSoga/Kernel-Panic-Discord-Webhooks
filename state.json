@@ -4,7 +4,7 @@
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/",
-    "CERT-CC": "https://kb.cert.org/vuls/id/580079",
+    "CERT-CC": "https://kb.cert.org/vuls/id/644655",
     "KDnuggets": "https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit",
     "TowardsDataScience": "https://towardsdatascience.com/rag-retrieval-lost-40-points-when-distracting-passages-grew-to-268m/",
     "MachineLearningMastery": "https://machinelearningmastery.com/fast-attention-kernels-and-operator-fusion/",
