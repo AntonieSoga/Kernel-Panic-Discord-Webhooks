@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+    "TheHackerNews": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/",
     "CERT-CC": "https://kb.cert.org/vuls/id/604762",
-    "KDnuggets": "https://www.kdnuggets.com/how-to-calibrate-your-classifiers-probabilities-in-scikit-learn",
-    "TowardsDataScience": "https://towardsdatascience.com/how-to-improve-coding-agent-efficiency-by-30-with-an-orchestrator/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/activation-kv-cache-and-floating-point-quantization/",
+    "KDnuggets": "https://www.kdnuggets.com/introducing-gemini-decision-1-a-model-that-picks-answers-instead-of-writing-them",
+    "TowardsDataScience": "https://towardsdatascience.com/how-ai-agents-become-a-tool-for-attackers-and-how-to-stop-it/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/graph-rag-for-enterprise-documents-building-a-knowledge-graph-from-pdfs-wikis-and-databases/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1xxgqjz/weekly_entering_transitioning_thread_16_nov_2026/"
 }
