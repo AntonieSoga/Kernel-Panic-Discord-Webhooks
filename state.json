@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+    "TheHackerNews": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
     "Unit42": "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/",
     "CERT-CC": "https://kb.cert.org/vuls/id/604762",
-    "KDnuggets": "https://www.kdnuggets.com/introducing-gemini-decision-1-a-model-that-picks-answers-instead-of-writing-them",
-    "TowardsDataScience": "https://towardsdatascience.com/how-ai-agents-become-a-tool-for-attackers-and-how-to-stop-it/",
-    "MachineLearningMastery": "https://machinelearningmastery.com/graph-rag-for-enterprise-documents-building-a-knowledge-graph-from-pdfs-wikis-and-databases/",
+    "KDnuggets": "https://www.kdnuggets.com/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy",
+    "TowardsDataScience": "https://towardsdatascience.com/analytics-engineerings-missing-layer-is-business-communication/",
+    "MachineLearningMastery": "https://machinelearningmastery.com/visualizing-information-entropy-in-language-models/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1xxgqjz/weekly_entering_transitioning_thread_16_nov_2026/"
 }
