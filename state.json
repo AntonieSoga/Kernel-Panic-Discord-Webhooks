@@ -1,12 +1,12 @@
 {
-    "TheHackerNews": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+    "TheHackerNews": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
     "KrebsOnSecurity": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
     "ThreatPost": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
     "NVD-Analyzed": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-4302",
-    "Unit42": "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/",
+    "Unit42": "https://unit42.paloaltonetworks.com/ai-threat-horizon/",
     "CERT-CC": "https://kb.cert.org/vuls/id/604762",
-    "KDnuggets": "https://www.kdnuggets.com/how-to-run-inkling-2-mini-locally-on-an-rtx-3090-using-unsloth-studio",
-    "TowardsDataScience": "https://towardsdatascience.com/i-built-a-bayesian-neural-network-from-one-neuron-and-football-shots/",
+    "KDnuggets": "https://www.kdnuggets.com/2026/11/vibe-coding-for-business-analytics-custom-crm-dashboards-reporting-apps-and-ai-agents",
+    "TowardsDataScience": "https://towardsdatascience.com/duckdb-20-vs-polars-20-in-five-real-world-tests-and-one-14x-gap/",
     "MachineLearningMastery": "https://machinelearningmastery.com/speculative-decoding/",
     "Reddit-DataScience": "https://www.reddit.com/r/datascience/comments/1xxgqjz/weekly_entering_transitioning_thread_16_nov_2026/"
 }
